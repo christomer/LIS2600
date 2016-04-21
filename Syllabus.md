@@ -4,6 +4,8 @@ Fall 2016
 
 **General Purposes of the Course**
 
+![](Place_des_Abbesse_the_plaque_with_the_je_taimete_iubesc_in_311_laguages.jpg)
+
 **Goals and Objectives**
 
 Goals for the semester include: 
