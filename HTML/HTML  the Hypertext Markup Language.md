@@ -165,7 +165,7 @@ An inline element does not start on a new line and only takes up as much width a
 * `<a>`
 * `<img>`
 
-### The <div> Element
+### The `<div>` Element
 
 The `<div>` element is a block-level element that is often used as a container for other HTML elements.
 
